@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bases de datos Juan Mahecha</string>
+    <string name="tvTitulo">Registro de usuario</string>
+    <string name="etDocumento">DOCUMENTO</string>
+    <string name="etNombres">NOMBRES</string>
+    <string name="etApellidos">APELLIDOS</string>
+    <string name="etUsuario">USUARIO</string>
+    <string name="etContra">CONTRASEÑA</string>
+    <string name="etBuscar">BUSCAR POR DOCUMENTOC</string>
+
+    <string name="btnRegistrar">REGISTRAR</string>
+    <string name="btnActualizar">ACTUALIZAR</string>
+    <string name="btnLimpiar">LIMPIAR</string>
+    <string name="btnBuscar">BUSCAR</string>
+</resources>
